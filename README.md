@@ -11,16 +11,12 @@
 
 <p> I'm Khalekuzzaman.But,Almost people call me Kaochar.I'm 21 years old.I'm a dedicated student.I studies at BSc(Hon's) in Engineering ar Dept. Electrical & Electronic Engineering at University of Rajshahi.I'm trying to be a good programmer asif i always love to hard work in programming.I always believe in Humanity.In Shaa Allah oneday i will be a good programmer.</p>
 <hr>
-<br>
 
 ### __👉 Social Link/Contact :__
 
-<img src = ./Photo/instagram.webp aline = "left" height ="40" width = "40" ><t>
+<img src = ./Photo/download.png aline = "left" height ="40" width = "40" ><t>
 <img src = ./Photo/facebook.svg aline = "left" height ="50">
 <hr>
-
-
-<br>
 
 ## 👨🏻‍🎓 __Education__ :
 | Name Of Exam | Year | Institute |
